@@ -13,3 +13,8 @@ The data came from the paper: Zham P, Kumar DK, Dabnichki P, Poosapadi Arjunan S
 
     What patterns are present for Parkisons patients?
     Are there small, robust features that can be used for diagnosis?
+
+
+## Source:
+
+https://www.kaggle.com/datasets/kmader/parkinsons-drawings
