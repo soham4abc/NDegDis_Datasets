@@ -1,0 +1,1 @@
+Threshold calculated = 16.5
